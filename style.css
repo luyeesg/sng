@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: "Oxygen Mono", "Helvetica";
+}
+
+.main {
+    text-align: center;
+    margin-top: 8rem;
+}
+
+.title p {
+    font-size: 7rem;
+    margin-bottom: 5rem;
+}
+
+.guide {
+    font-size: 2rem;
+    margin-bottom: 5rem;
+}
+
+.button {
+    font-family: "Oxygen Mono";
+    padding: 3rem 12rem;
+    background-color: #F5F5F5;
+    border-radius: 2.8rem;
+    border: 1px solid #F5F5F5;
+    font-size: 2.3rem;
+    cursor: pointer;
+    margin-bottom: 5rem;
+}
+
+.answer {
+    font-size: 2.3rem;
+    color: rgb(189, 32, 32);
+}
